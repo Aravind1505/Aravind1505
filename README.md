@@ -20,6 +20,9 @@ I am a software developer/Front-End Developer and ML Enthusiast. Now currently w
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=Aravind1505&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aravind1505&layout=compact&langs_count=8&hide_border=true)
+
 ### 📫 &nbsp; How to reach me:
 
 
