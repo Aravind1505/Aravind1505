@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software developer/Front-End Developer and ML Enthusiast. Now currently working on a model that identifies human behavioural patterns.
+I am a software developer/Front-End Developer and ML Enthusiast.
 
 ### 🛠 &nbsp;Tech Stack
 
