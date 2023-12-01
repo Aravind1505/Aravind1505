@@ -22,6 +22,8 @@ I am a software developer/Front-End Developer and ML Enthusiast.
 
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=Aravind1505&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aravind1505&layout=compact&langs_count=8&hide_border=true)
+![Visitor Count](https://profile-counter.glitch.me/{Aravind1505}/count.svg)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aravind1505&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### 📫 &nbsp; How to reach me:
 
