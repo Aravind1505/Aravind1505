@@ -31,7 +31,9 @@ Visitor Count :
 
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aravind1505&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aravind1505&border_radius=50&date_format=j%20M%5B%20Y%5D&card_width=575&background=45%2C85EBB6%2C65EE23&stroke=EB545400&currStreakNum=5242FF&currStreakLabel=5242FF&ring=5242FF&fire=5242FF&sideNums=5242FF&sideLabels=5242FF&dates=5242FF&hide_current_streak=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aravind1505&border_radius=50&date_format=j%20M%5B%20Y%5D&card_width=575&background=45%2C85EBB6%2C65EE23&stroke=EB545400&currStreakNum=5242FF&currStreakLabel=5242FF&ring=5242FF&fire=5242FF&sideNums=5242FF&sideLabels=5242FF&dates=5242FF&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ### 📫 &nbsp; How to reach me:
 
